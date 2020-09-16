@@ -1,0 +1,17 @@
+.DS_Store
+__pycache*
+*.swp
+*.swo
+.ipynb_che*
+*.pyc
+.idea
+.vscode
+*.csv
+*.rf
+*.p
+*.pt
+*.npy
+.Rhistory
+Untitled.ipynb
+
+processed_data
