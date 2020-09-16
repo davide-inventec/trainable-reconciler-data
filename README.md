@@ -34,7 +34,7 @@ For each dataset, the preprocessing outputs:
 - `train.csv` : same as `data.csv`, only training period
 - `test.csv` : same as `data.csv`, only testing period
 - `hierarchy_matrix.npy`: S hierarchy matrix
-- `hierarchy_list.p`: used to interface with `R` methods in [hts](https://cran.r-project.org/web/packages/hts/index.html) package, can be safely ignored. It's a list of lists, with each list representing a level in the hierarchy. Each number in the lists represent a node, and its value is equal to the number of children nodes. Values in each level follow a reverse order from the columns in `data.csv`.
+- `hierarchy_list.p`: used to interface with `R` methods in [hts](https://cran.r-project.org/web/packages/hts/index.html) package, can be safely ignored. It's a list of lists, with each list representing a level in the hierarchy. Each number in the lists represents a node, and its value is equal to the number of children nodes. Values in each level follow a reverse order from the columns in `data.csv`.
 
 For the `Energy` dataset, the ouput also includes the training and testing dataframes and labels used to learn the global forecasting model: `global_tab_data_train.p` and `global_tab_data_test.p`.
 
