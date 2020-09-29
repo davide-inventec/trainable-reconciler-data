@@ -1,4 +1,4 @@
-## Hierarchical time-series - Data download and preprocessing
+## Hierarchical time-series - data collection
 
 
 #### Data download
