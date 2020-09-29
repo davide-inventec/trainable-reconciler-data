@@ -1,7 +1,7 @@
 ## Hierarchical time-series - data collection
 
 
-#### Data download
+### Data download
 
 The data can be downloaded from the following links:
 
