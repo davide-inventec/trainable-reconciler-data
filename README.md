@@ -24,7 +24,7 @@ Once completed the download, put the files under the `data` directory.
 To preprocess the data, run:
 
 ```
-bash run_preprocessing.py
+bash run_preprocessing.sh
 ```
 
 #### Preprocessing output
